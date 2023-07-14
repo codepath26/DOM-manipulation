@@ -10,6 +10,8 @@
 // console.log(document.forms[0]);
 // console.log(document.links);
 // console.log(document.images);
+
+
 let tit = document.getElementsByTagName("title")
 console.log(tit[0])
 let titleChage = document.getElementById("titleChage")
